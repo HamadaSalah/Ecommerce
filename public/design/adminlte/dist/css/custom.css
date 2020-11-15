@@ -1,0 +1,51 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url('../fonts/Cairo-Regular.ttf');
+  }
+  
+  div {
+    font-family: myFirstFont;
+  }
+  .table:not(.table-dark) {
+    box-shadow: 2px 2px 7px #DDD;
+  }
+.nav-treeview .nav-item {
+padding-left: 10px;
+}
+#cntry_select {
+display: block;
+margin-bottom: 15px;
+display: block;
+margin-bottom: 15px;
+width: 155px;
+padding-left: 7px;
+padding: 4px 10px;
+border-radius: 5px;
+border: 1px solid #CCC;
+
+}
+.socialized {
+  font-size: 25px;
+}
+.fa-facebook {
+  color:#3b5998 ;
+}.fa-twitter {
+  color: #1DA1F2;
+}.fa-globe-europe {
+  color: #333;
+}
+.table td, .table th {
+  vertical-align: revert!important;
+}
+
+form {
+  padding-bottom: 30px;
+  }
+  form .btn-primary {
+    display: block;
+    width: 153px;
+  }
+  
+
+
+

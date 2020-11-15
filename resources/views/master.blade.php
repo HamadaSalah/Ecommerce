@@ -1,0 +1,6 @@
+@include('layouts.front.header')
+@include('layouts.front.reg')
+@include('layouts.front.menu')
+@include('layouts.front.categ')
+@yield('content')
+@include('layouts.front.footer')
